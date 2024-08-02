@@ -1,0 +1,27 @@
+.heading {
+  font-size: 15px;
+  font-family: Verdana;
+  text-align: center;
+}
+.product-image {
+  width: 200px;
+  height: 200px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.description {
+  font-size: 12px;
+  text-align: center;
+  flex-wrap: wrap;
+}
